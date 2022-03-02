@@ -1,0 +1,59 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Copy of Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMmXaGiwP6NS//H5xvhmRO6",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Kaven18/Kaven18/blob/master/add%20two%20numbers\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "xwZPUd2z1m3a",
+        "outputId": "26eea411-b054-4567-fd6b-3a35a516d228"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "The Sum of 1.5 and 6.3 is 7.8\n"
+          ]
+        }
+      ],
+      "source": [
+        "num1 = 1.5\n",
+        "num2 = 6.3\n",
+        "\n",
+        "sum = num1 + num2\n",
+        "\n",
+        "print('The Sum of {0} and {1} is {2}'.format(num1,num2,sum))"
+      ]
+    }
+  ]
+}
